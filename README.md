@@ -2,8 +2,7 @@
 
 ## Author
 **Shrut Dineshbhai Prajapati**  
-Spring Semester (2024)  
-Assignment 3 - Statistics Lab
+ Statistics Lab
 
 ---
 
@@ -65,6 +64,7 @@ By leveraging these insights, the company can optimize marketing strategies and 
 
 ## 4. Relationship Between Time Spent and Customer Spending
 **Scatter Plot Analysis:**
+
 ![Time vs. Spending](https://github.com/user-attachments/assets/56c4a818-3677-48cb-bb9b-f93c7f6249bb)
 
 **Key Observations:**
@@ -77,6 +77,7 @@ By leveraging these insights, the company can optimize marketing strategies and 
 
 ## 5. Relationship Between Number of Pages Viewed and Amount Spent
 **Scatter Plot Analysis:**
+
 ![Pages Viewed vs. Amount Spent](https://github.com/user-attachments/assets/eaa0583a-3e78-4cc4-b1dc-71216d1485e4)
 
 **Key Observations:**
@@ -87,6 +88,7 @@ By leveraging these insights, the company can optimize marketing strategies and 
 
 ## 6. Relationship Between Time Spent on Website and Number of Pages Viewed
 **Scatter Plot Analysis:**
+
 ![Time vs. Pages Viewed](https://github.com/user-attachments/assets/eaa0583a-3e78-4cc4-b1dc-71216d1485e4)
 
 - **Moderate positive correlation (~0.45)** between pages viewed and time spent.
@@ -109,5 +111,4 @@ This analysis provides valuable insights into customer behavior at ABC Company:
 
 ### References:
 [Scatter Plot Guide – Stack Overflow](https://stackoverflow.com/questions/10336614/scatter-plot-in-matplotlib)
-```
 
