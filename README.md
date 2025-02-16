@@ -1,85 +1,67 @@
-# 👋 Hello, I'm Shrut D. Prajapati!
+# Shrut D. Prajapati - Data Analyst | Developer | Machine Learning Enthusiast
 
-## 🚀 About Me
-I am a **Data Analytics graduate student** with expertise in Python, machine learning, web development, and data visualization. Passionate about leveraging data-driven solutions, I specialize in building scalable applications and extracting meaningful insights from complex datasets.
+## About Me
+I am a **Data Analytics professional** with expertise in **predictive modeling, regression analysis, data visualization, and machine learning**. With a strong foundation in **Python, Django, and data-driven decision-making**, I specialize in transforming complex datasets into actionable insights.
 
-Currently pursuing my **Master’s in Data Analytics** at **Johnson & Wales University**, I am committed to continuous learning, problem-solving, and applying my analytical skills to real-world challenges.
+Currently pursuing my **Master’s in Data Analytics** at **Johnson & Wales University**, I am dedicated to leveraging data science techniques to drive impactful business solutions. My academic and professional journey has equipped me with expertise in **data analytics, programming, database management, and cloud technologies**.
 
----
-
-## 💡 Professional Summary
-- 🎯 **Data Analytics Enthusiast** – Strong foundation in **Python, R, SQL, and Data Visualization**
-- 🖥️ **Web Developer** – Experienced in **Django, PostgreSQL, and MongoDB**
-- 📊 **Machine Learning & Modeling** – Proficient in **data-driven decision making**
-- 🛠️ **IT & Technical Support** – Hands-on experience in troubleshooting and system maintenance
+🔹 **Location:** Providence, Rhode Island, USA  
+🔹 **LinkedIn:** [linkedin.com/in/shrutp](https://www.linkedin.com/in/shrutp)  
+🔹 **Personal Portfolio:** [Jovian Profile](https://jovian.com/pshrutdineshbhai/likes)  
+🔹 **Email:** shrutd.prajapati@gmail.com  
+🔹 **Phone:** +1 (401) 601 3017  
 
 ---
 
-## 🔧 Technical Skills
-- **Programming:** Python, R, SQL, Django
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn, Tableau, Power BI
-- **Machine Learning:** Scikit-Learn, TensorFlow, Data Modeling
-- **Cloud & Tools:** AWS, Git, Jupyter Notebook, Excel (Advanced)
+##  Core Skills
+- **Programming Languages:** Python, R, SQL, Java, C, C++
+- **Frameworks & Technologies:** Django, Flask, React, RESTful APIs
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Data Visualization:** Tableau, Power BI, Excel, Matplotlib, Seaborn
+- **Cloud & Big Data:** AWS, Google Cloud, Hadoop
+- **Machine Learning & AI:** Regression Analysis, Classification, Forecasting Models
+- **Software Development:** Web Development, API Integration, Scalable Application Design
 
 ---
 
-## 📌 Experience
-### **IT Field Services Student Employee**  
-📍 *Johnson & Wales University, Providence, RI (Oct 2023 – Present)*  
-- Provided **technical support** to students and faculty, maintaining campus IT systems.
-- Installed **system updates & BIOS upgrades** for enhanced security and performance.
-- Diagnosed and resolved **hardware/software issues**, minimizing downtime.
+##  Professional Experience
+### **IT Field Services - Johnson & Wales University** (Oct 2023 – Present)  
+- Provided **technical support** for university hardware/software, ensuring seamless operations.
+- Installed **system updates and BIOS upgrades** for enhanced security and performance.
+- Troubleshot **technical issues across campus**, reducing downtime for students and faculty.
 
-### **Web Developer (Internship)**  
-📍 *Techno Guide Infosoft Pvt. Ltd (Jan 2022 – June 2022)*  
-- Developed and deployed **Django-based web applications**.
-- Worked on **PostgreSQL database optimization** to improve performance.
-- Gained experience in **full-stack development**, from front-end UI to back-end logic.
+### **Software Engineer Intern - Techno Guide Infosoft Pvt. Ltd.** (Jan 2022 – June 2022)  
+- Developed and optimized **Django-based web applications**, improving scalability and performance.
+- Designed and implemented **database solutions with PostgreSQL** to ensure efficient data storage.
+- Collaborated with cross-functional teams to deploy **live applications**, including [Neejanand](https://neejanand.com/).
 
 ---
 
-## 🎓 Education
-### **Master of Science – Data Analytics**  
-📍 *Johnson & Wales University (2023 - 2025)*  
-**GPA:** 3.92 *(Current)*  
+##  Education
+### **Master’s in Data Analytics** (GPA: 3.92)  
+*Johnson & Wales University (2023 – 2025)*  
+- Advanced coursework in **Predictive Modeling, Machine Learning, Statistical Analysis, and Business Intelligence**.
 
-### **Bachelor of Engineering – Computer Science & Engineering**  
-📍 *Gujarat Technical University (2018 - 2022)*  
-**Result:** First Class with Distinction
-
----
-
-## 📜 Certifications
-- **Excel Yellow Belt – McGraw Hill (Expected Dec 2023)**
-- **Data Analysis with Python – Jovian (April 2022)**
-- **ICPC 2021 Competition Participant**
+### **Bachelor’s in Computer Science & Engineering** (First Class with Distinction)  
+*Gujarat Technological University (2018 – 2022)*  
+- Strong foundation in **Data Structures, Algorithms, Web Development, and Database Management**.
 
 ---
 
-## 🔗 Connect with Me
-- 📧 **Email:** [shrutd.prajapati@gmail.com](mailto:shrutd.prajapati@gmail.com)
-- 🌍 **Website:** [Jovian Profile](https://jovian.com/pshrutdineshbhai/likes)
-- 🔗 **LinkedIn:** [linkedin.com/in/shrutp](https://linkedin.com/in/shrutp)
-- 📍 **Location:** Providence, Rhode Island, USA
-- 📱 **Phone:** +1 (401) 601-3017
+## 🎖 Certifications
+- **Data Analysis with Python: Zero to Pandas** – Jovian
+- **Excel Yellow Belt - Level 2** – McGraw Hill (Expected Dec 2023)
+- **ICPC 2021 Competition Participant** – International Collegiate Programming Contest
 
 ---
 
-## 📌 GitHub Profile Stats
-![Shrut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrut1261&show_icons=true&theme=radical)
+## GitHub Repository Overview
+This repository serves as a collection of my **data analytics projects, machine learning models, and web development work**. It includes:
+- **Predictive Analytics Projects**: Regression models, classification algorithms, and trend forecasting.
+- **Data Visualization Dashboards**: Interactive reports using Tableau and Power BI.
+- **Machine Learning Implementations**: Jupyter Notebooks covering supervised and unsupervised learning models.
+- **Web Applications**: Django and Flask-based web projects with integrated APIs.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrut1261&layout=compact&theme=radical)
-
----
-
-## 📂 Projects
-🔹 **[Predicting Credit Card Customer Attrition](https://github.com/shrut1261/credit-card-churn)** – Machine learning model to predict customer churn.  
-🔹 **[Django Web App](https://github.com/shrut1261/django-web-app)** – Full-stack web app built with Django and PostgreSQL.  
-🔹 **[Data Analysis with Python](https://github.com/shrut1261/python-data-analysis)** – Exploratory data analysis using Pandas, Matplotlib, and Seaborn.
-
----
-
-⭐ **Thank you for visiting my GitHub! Let's connect and collaborate.** 🚀
+Feel free to explore my work and connect with me on [LinkedIn](https://www.linkedin.com/in/shrutp)!
 
 
