@@ -1,112 +1,85 @@
-# ABC Company: Customer Online Shopping Behavior Analysis by **Shrut Dineshbhai Prajapati**  ( Statistics Lab )
+# 👋 Hello, I'm Shrut D. Prajapati!
+
+## 🚀 About Me
+I am a **Data Analytics graduate student** with expertise in Python, machine learning, web development, and data visualization. Passionate about leveraging data-driven solutions, I specialize in building scalable applications and extracting meaningful insights from complex datasets.
+
+Currently pursuing my **Master’s in Data Analytics** at **Johnson & Wales University**, I am committed to continuous learning, problem-solving, and applying my analytical skills to real-world challenges.
 
 ---
 
-## 1. Overview of the Problem
-ABC Company aims to understand customer shopping behavior on its online platform. The primary objective is to analyze the impact of:
-- The **day of the week** on customer activity and spending patterns.
-- The **browser type** used for accessing the website.
-
-By leveraging these insights, the company can optimize marketing strategies and better target specific customer segments.
-
----
-
-## 2. Graphical and Numerical Summaries
-### **Summary Statistics**
-#### **Length of Time on Website**
-- **Mean:** 12.1 minutes  
-- **Median:** 11.3 minutes  
-- **Minimum:** 3.2 minutes  
-- **Maximum:** 32.9 minutes  
-- **Standard Deviation:** 6.2 minutes  
-  _Most shoppers browse the website for a short and focused period._
-
-#### **Number of Pages Viewed**
-- **Mean:** 4.5 pages  
-- **Median:** 4 pages  
-- **Minimum:** 2 pages  
-- **Maximum:** 10 pages  
-- **Standard Deviation:** 1.8 pages  
-  _Some customers engage more deeply than others, browsing more pages._
-
-#### **Mean Amount Spent**
-- **Mean:** $66.87  
-- **Median:** $59.20  
-- **Minimum:** $17.84  
-- **Maximum:** $158.51  
-- **Standard Deviation:** $30.71  
-  _There is a significant variation in spending, indicating a diverse customer base._
-
-- **Correlation between browsing time, pages viewed, and spending:** _Moderate (0.3 - 0.5)_  
-  _Engaged shoppers tend to spend more money._
-
-**Graphical Representation:**
-![Summary Statistics](https://github.com/user-attachments/assets/b1a4addb-4c35-41c5-a8b5-b667a9cf8702)
+## 💡 Professional Summary
+- 🎯 **Data Analytics Enthusiast** – Strong foundation in **Python, R, SQL, and Data Visualization**
+- 🖥️ **Web Developer** – Experienced in **Django, PostgreSQL, and MongoDB**
+- 📊 **Machine Learning & Modeling** – Proficient in **data-driven decision making**
+- 🛠️ **IT & Technical Support** – Hands-on experience in troubleshooting and system maintenance
 
 ---
 
-## 3. Day of the Week Analysis
-
-**Key Findings:**
-- **Higher Activity & Spending on Weekends:** Fridays lead in both activity and spending, possibly due to payday shopping. Saturdays see slightly lower activity but similar spending.
-- **Monday Surprises:** Despite lower visits, Monday sees the highest average spending, indicating potentially loyal, high-value customers.
-- **Weekdays Show Mixed Trends:** Tuesday and Thursday exhibit moderate activity, while Wednesday has the lowest spending, possibly indicating more browsing than buying.
-- **Sundays Underperform:** Lowest activity and spending suggest the need for alternative marketing strategies.
-
-**Graphical Representation:**
-
-![Day of the Week Analysis](https://github.com/user-attachments/assets/81380a73-1c6f-4c51-a3e7-6b41fb6329f8)
-
+## 🔧 Technical Skills
+- **Programming:** Python, R, SQL, Django
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Data Analysis & Visualization:** Pandas, Matplotlib, Seaborn, Tableau, Power BI
+- **Machine Learning:** Scikit-Learn, TensorFlow, Data Modeling
+- **Cloud & Tools:** AWS, Git, Jupyter Notebook, Excel (Advanced)
 
 ---
 
-## 4. Relationship Between Time Spent and Customer Spending
-**Scatter Plot Analysis:**
+## 📌 Experience
+### **IT Field Services Student Employee**  
+📍 *Johnson & Wales University, Providence, RI (Oct 2023 – Present)*  
+- Provided **technical support** to students and faculty, maintaining campus IT systems.
+- Installed **system updates & BIOS upgrades** for enhanced security and performance.
+- Diagnosed and resolved **hardware/software issues**, minimizing downtime.
 
-![Time vs. Spending](https://github.com/user-attachments/assets/56c4a818-3677-48cb-bb9b-f93c7f6249bb)
-
-**Key Observations:**
-- A weak positive correlation suggests customers who browse longer tend to spend slightly more.
-- Some high-spending customers have short browsing times, indicating that time alone is not a strong predictor of spending.
-- Outliers suggest unique purchase patterns worth further exploration.
-- Correlation coefficient **~0.2**, confirming a weak relationship.
-
----
-
-## 5. Relationship Between Number of Pages Viewed and Amount Spent
-**Scatter Plot Analysis:**
-
-![Pages Viewed vs. Amount Spent](https://github.com/user-attachments/assets/eaa0583a-3e78-4cc4-b1dc-71216d1485e4)
-
-**Key Observations:**
-- A moderate positive correlation (**0.59**) suggests that customers who browse more pages tend to spend more money.
-- However, spending habits vary, indicating other influential factors.
+### **Web Developer (Internship)**  
+📍 *Techno Guide Infosoft Pvt. Ltd (Jan 2022 – June 2022)*  
+- Developed and deployed **Django-based web applications**.
+- Worked on **PostgreSQL database optimization** to improve performance.
+- Gained experience in **full-stack development**, from front-end UI to back-end logic.
 
 ---
 
-## 6. Relationship Between Time Spent on Website and Number of Pages Viewed
-**Scatter Plot Analysis:**
+## 🎓 Education
+### **Master of Science – Data Analytics**  
+📍 *Johnson & Wales University (2023 - 2025)*  
+**GPA:** 3.92 *(Current)*  
 
-![Time vs. Pages Viewed](https://github.com/user-attachments/assets/eaa0583a-3e78-4cc4-b1dc-71216d1485e4)
-
-- **Moderate positive correlation (~0.45)** between pages viewed and time spent.
-- Customers who explore more pages generally stay longer.
-- Additional segmentation by user type could provide deeper insights into browsing behavior.
+### **Bachelor of Engineering – Computer Science & Engineering**  
+📍 *Gujarat Technical University (2018 - 2022)*  
+**Result:** First Class with Distinction
 
 ---
 
-## 7. Conclusion
-This analysis provides valuable insights into customer behavior at ABC Company:
-- **Spending is moderately correlated with browsing activity**, though some customers make quick, high-value purchases.
-- **Fridays and Mondays are key revenue days**, while Sundays require targeted strategies.
-- **Customers engaging with more pages tend to spend more**, suggesting opportunities for content optimization to boost conversions.
+## 📜 Certifications
+- **Excel Yellow Belt – McGraw Hill (Expected Dec 2023)**
+- **Data Analysis with Python – Jovian (April 2022)**
+- **ICPC 2021 Competition Participant**
 
-### Recommendations:
-1. **Targeted marketing campaigns** on **Fridays and Mondays**.
-2. **Refined website layout** to encourage deeper browsing.
-3. **Special promotions on Sundays** to increase engagement.
-4. **Further segmentation analysis** to identify different customer behaviors.
+---
 
-### References:
-[Scatter Plot Guide – Stack Overflow](https://stackoverflow.com/questions/10336614/scatter-plot-in-matplotlib)
+## 🔗 Connect with Me
+- 📧 **Email:** [shrutd.prajapati@gmail.com](mailto:shrutd.prajapati@gmail.com)
+- 🌍 **Website:** [Jovian Profile](https://jovian.com/pshrutdineshbhai/likes)
+- 🔗 **LinkedIn:** [linkedin.com/in/shrutp](https://linkedin.com/in/shrutp)
+- 📍 **Location:** Providence, Rhode Island, USA
+- 📱 **Phone:** +1 (401) 601-3017
+
+---
+
+## 📌 GitHub Profile Stats
+![Shrut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrut1261&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrut1261&layout=compact&theme=radical)
+
+---
+
+## 📂 Projects
+🔹 **[Predicting Credit Card Customer Attrition](https://github.com/shrut1261/credit-card-churn)** – Machine learning model to predict customer churn.  
+🔹 **[Django Web App](https://github.com/shrut1261/django-web-app)** – Full-stack web app built with Django and PostgreSQL.  
+🔹 **[Data Analysis with Python](https://github.com/shrut1261/python-data-analysis)** – Exploratory data analysis using Pandas, Matplotlib, and Seaborn.
+
+---
+
+⭐ **Thank you for visiting my GitHub! Let's connect and collaborate.** 🚀
+
 
