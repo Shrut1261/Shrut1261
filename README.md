@@ -1,8 +1,4 @@
-# ABC Company: Customer Online Shopping Behavior Analysis
-
-## Author
-**Shrut Dineshbhai Prajapati**  
- Statistics Lab
+# ABC Company: Customer Online Shopping Behavior Analysis by **Shrut Dineshbhai Prajapati**  ( Statistics Lab )
 
 ---
 
@@ -58,7 +54,9 @@ By leveraging these insights, the company can optimize marketing strategies and 
 - **Sundays Underperform:** Lowest activity and spending suggest the need for alternative marketing strategies.
 
 **Graphical Representation:**
+
 ![Day of the Week Analysis](https://github.com/user-attachments/assets/81380a73-1c6f-4c51-a3e7-6b41fb6329f8)
+
 
 ---
 
