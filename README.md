@@ -1,67 +1,51 @@
-# Shrut D. Prajapati - Data Analyst | Developer | Machine Learning Enthusiast
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
-## About Me
-I am a **Data Analytics professional** with expertise in **predictive modeling, regression analysis, data visualization, and machine learning**. With a strong foundation in **Python, Django, and data-driven decision-making**, I specialize in transforming complex datasets into actionable insights.
+<h1 align="center">Hi 👋, I'm Shrut D. Prajapati</h1>
+<h3 align="center">Data Analyst | Developer | Machine Learning Enthusiast</h3>
 
-Currently pursuing my **Master’s in Data Analytics** at **Johnson & Wales University**, I am dedicated to leveraging data science techniques to drive impactful business solutions. My academic and professional journey has equipped me with expertise in **data analytics, programming, database management, and cloud technologies**.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🔹 **Location:** Providence, Rhode Island, USA  
-🔹 **LinkedIn:** [linkedin.com/in/shrutp](https://www.linkedin.com/in/shrutp)  
-🔹 **Personal Portfolio:** [Jovian Profile](https://jovian.com/pshrutdineshbhai/likes)  
-🔹 **Email:** shrutd.prajapati@gmail.com  
-🔹 **Phone:** +1 (401) 601 3017  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrut1261&label=Profile%20views&color=0e75b6&style=flat" alt="shrut1261" /> </p>
 
----
+- 🔭 I’m currently working on **Predicting Credit Card Customer Attrition Using Machine Learning**
 
-##  Core Skills
-- **Programming Languages:** Python, R, SQL, Java, C, C++
-- **Frameworks & Technologies:** Django, Flask, React, RESTful APIs
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Data Visualization:** Tableau, Power BI, Excel, Matplotlib, Seaborn
-- **Cloud & Big Data:** AWS, Google Cloud, Hadoop
-- **Machine Learning & AI:** Regression Analysis, Classification, Forecasting Models
-- **Software Development:** Web Development, API Integration, Scalable Application Design
+- 🌱 I’m currently learning **Advanced Machine Learning & Cloud Computing**
+
+- 💬 Ask me about **Data Analysis, Machine Learning, Django, SQL**
+
+- 📫 How to reach me **shrutd.prajapati@gmail.com**
+
+- ⚡ Fun fact **I love solving complex data puzzles!**
 
 ---
 
-##  Professional Experience
-### **IT Field Services - Johnson & Wales University** (Oct 2023 – Present)  
-- Provided **technical support** for university hardware/software, ensuring seamless operations.
-- Installed **system updates and BIOS upgrades** for enhanced security and performance.
-- Troubleshot **technical issues across campus**, reducing downtime for students and faculty.
+## 🚀 Connect with Me
 
-### **Software Engineer Intern - Techno Guide Infosoft Pvt. Ltd.** (Jan 2022 – June 2022)  
-- Developed and optimized **Django-based web applications**, improving scalability and performance.
-- Designed and implemented **database solutions with PostgreSQL** to ensure efficient data storage.
-- Collaborated with cross-functional teams to deploy **live applications**, including [Neejanand](https://neejanand.com/).
+<p align="left">
+<a href="https://linkedin.com/in/shrutp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrutp" height="30" width="40" /></a>
+<a href="https://jovian.com/pshrutdineshbhai/likes" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/jovianai/jovianai-icon.svg" alt="jovian" height="30" width="40" /></a>
+</p>
 
 ---
 
-##  Education
-### **Master’s in Data Analytics** (GPA: 3.92)  
-*Johnson & Wales University (2023 – 2025)*  
-- Advanced coursework in **Predictive Modeling, Machine Learning, Statistical Analysis, and Business Intelligence**.
+## 🛠️ Languages and Tools
 
-### **Bachelor’s in Computer Science & Engineering** (First Class with Distinction)  
-*Gujarat Technological University (2018 – 2022)*  
-- Strong foundation in **Data Structures, Algorithms, Web Development, and Database Management**.
-
----
-
-## 🎖 Certifications
-- **Data Analysis with Python: Zero to Pandas** – Jovian
-- **Excel Yellow Belt - Level 2** – McGraw Hill (Expected Dec 2023)
-- **ICPC 2021 Competition Participant** – International Collegiate Programming Contest
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/255832/sql.svg" alt="sql" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
+</p>
 
 ---
 
-## GitHub Repository Overview
-This repository serves as a collection of my **data analytics projects, machine learning models, and web development work**. It includes:
-- **Predictive Analytics Projects**: Regression models, classification algorithms, and trend forecasting.
-- **Data Visualization Dashboards**: Interactive reports using Tableau and Power BI.
-- **Machine Learning Implementations**: Jupyter Notebooks covering supervised and unsupervised learning models.
-- **Web Applications**: Django and Flask-based web projects with integrated APIs.
+## 📊 GitHub Stats
 
-Feel free to explore my work and connect with me on [LinkedIn](https://www.linkedin.com/in/shrutp)!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrut1261&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shrut1261" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrut1261&show_icons=true&locale=en&theme=tokyonight" alt="shrut1261" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrut1261&&theme=tokyonight" alt="shrut1261" /></p>
