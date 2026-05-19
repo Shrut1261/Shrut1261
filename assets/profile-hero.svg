@@ -41,17 +41,9 @@
 
   <g transform="translate(100 88)">
     <rect x="0" y="0" width="300" height="284" rx="28" fill="#07111f" stroke="#24415f"/>
-    <circle cx="150" cy="112" r="96" fill="url(#avatarGlow)"/>
-    <circle cx="150" cy="112" r="76" fill="#0f1b2d" stroke="url(#accent)" stroke-width="4"/>
-    <circle cx="150" cy="84" r="34" fill="#354155"/>
-    <path d="M112 96c5-37 32-56 68-52 31 4 51 26 55 58-21-15-44-20-66-12-23 8-38 10-57 6z" fill="#111827"/>
-    <path d="M105 160c12-40 40-60 76-60s64 20 75 60c-30 27-116 27-151 0z" fill="#2563eb"/>
-    <path d="M122 84c20-17 42-17 62 0v32c0 22-14 41-32 41s-30-19-30-41z" fill="#f1c29f"/>
-    <path d="M129 117c14 13 33 13 47 0" fill="none" stroke="#7c2d12" stroke-width="4" stroke-linecap="round"/>
-    <path d="M122 91c18-14 40-20 63-7 2 12-3 17-14 14-18-7-35-3-49 8z" fill="#1f2937"/>
-    <rect x="116" y="103" width="28" height="17" rx="8" fill="none" stroke="#0f172a" stroke-width="4"/>
-    <rect x="159" y="103" width="28" height="17" rx="8" fill="none" stroke="#0f172a" stroke-width="4"/>
-    <path d="M144 111h15" stroke="#0f172a" stroke-width="4"/>
+    <rect x="24" y="24" width="252" height="166" rx="22" fill="#0b1424" stroke="#1e3652"/>
+    <circle cx="150" cy="108" r="104" fill="url(#avatarGlow)"/>
+    <image href="original-avatar.png" x="22" y="36" width="256" height="153" preserveAspectRatio="xMidYMid meet"/>
     <text x="150" y="226" text-anchor="middle" fill="#f8fafc" font-family="Inter,Segoe UI,Arial" font-size="28" font-weight="950">Shrut Prajapati</text>
     <text x="150" y="254" text-anchor="middle" fill="#93c5fd" font-family="Inter,Segoe UI,Arial" font-size="16" font-weight="800">Analytics + ML + Quant</text>
   </g>
