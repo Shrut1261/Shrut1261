@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="300" viewBox="0 0 680 300" role="img" aria-labelledby="title desc">
+  <title id="title">DenialGuard AI project card</title>
+  <desc id="desc">Modern project card for healthcare denial risk prediction.</desc>
+  <rect width="680" height="300" rx="24" fill="#0b1120" stroke="#334155"/>
+  <rect x="36" y="40" width="154" height="220" rx="16" fill="#171827"/>
+  <text x="56" y="76" fill="#f8fafc" font-family="Inter,Segoe UI,Arial" font-size="26" font-weight="950">DenialGuard AI</text>
+  <text x="56" y="106" fill="#93c5fd" font-family="Inter,Segoe UI,Arial" font-size="15">Healthcare claim risk</text>
+  <rect x="56" y="140" width="92" height="8" rx="4" fill="#ef4444"/>
+  <rect x="56" y="174" width="108" height="24" rx="5" fill="#0b1120" stroke="#334155"/>
+  <rect x="56" y="218" width="118" height="24" rx="5" fill="#0b1120" stroke="#334155"/>
+  <text x="226" y="78" fill="#f8fafc" font-family="Inter,Segoe UI,Arial" font-size="32" font-weight="950">Claim denial risk scoring</text>
+  <text x="226" y="112" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial" font-size="17">Predictive ML with operational recommendations.</text>
+  <text x="226" y="172" fill="#9fb8d8" font-family="Inter,Segoe UI,Arial" font-size="16">Risk</text>
+  <text x="226" y="214" fill="#f8fafc" font-family="Inter,Segoe UI,Arial" font-size="42" font-weight="950">30.2%</text>
+  <rect x="360" y="152" width="230" height="24" rx="5" fill="#60a5fa"><animate attributeName="width" values="160;230;160" dur="4s" repeatCount="indefinite"/></rect>
+  <rect x="360" y="194" width="184" height="24" rx="5" fill="#38bdf8"><animate attributeName="width" values="122;184;122" dur="4.5s" repeatCount="indefinite"/></rect>
+  <rect x="360" y="236" width="142" height="24" rx="5" fill="#2dd4bf"><animate attributeName="width" values="92;142;92" dur="5s" repeatCount="indefinite"/></rect>
+</svg>

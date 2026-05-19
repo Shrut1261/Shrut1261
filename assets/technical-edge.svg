@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="310" viewBox="0 0 1400 310" role="img" aria-labelledby="title desc">
+  <title id="title">Technical edge skills map</title>
+  <desc id="desc">A skills map for analytics, data engineering, machine learning, application layer, and finance analytics.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+  <rect width="1400" height="310" rx="28" fill="url(#bg)" stroke="#243a55"/>
+  <text x="60" y="70" fill="#f8fafc" font-family="Inter,Segoe UI,Arial" font-size="34" font-weight="950">Technical Edge</text>
+  <text x="60" y="104" fill="#9fb8d8" font-family="Inter,Segoe UI,Arial" font-size="18">A practical stack for analytics products, not just notebooks.</text>
+  <g font-family="Inter,Segoe UI,Arial" font-weight="900">
+    <rect x="60" y="146" width="220" height="72" rx="18" fill="#082f49" stroke="#38bdf8"/><text x="86" y="190" fill="#e0f2fe" font-size="22">SQL + BI</text>
+    <rect x="306" y="146" width="250" height="72" rx="18" fill="#0f2e37" stroke="#2dd4bf"/><text x="332" y="190" fill="#ccfbf1" font-size="22">Python + APIs</text>
+    <rect x="582" y="146" width="250" height="72" rx="18" fill="#172033" stroke="#60a5fa"/><text x="608" y="190" fill="#dbeafe" font-size="22">ML Workflows</text>
+    <rect x="858" y="146" width="230" height="72" rx="18" fill="#1f2a16" stroke="#a3e635"/><text x="884" y="190" fill="#ecfccb" font-size="22">Quant Metrics</text>
+    <rect x="1114" y="146" width="226" height="72" rx="18" fill="#23172a" stroke="#c084fc"/><text x="1140" y="190" fill="#f3e8ff" font-size="22">Cloud + CI</text>
+  </g>
+  <g opacity=".42">
+    <path d="M280 182h26M556 182h26M832 182h26M1088 182h26" stroke="#64748b" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

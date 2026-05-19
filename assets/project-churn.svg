@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="300" viewBox="0 0 680 300" role="img" aria-labelledby="title desc">
+  <title id="title">Credit card churn project card</title>
+  <desc id="desc">Modern project card for credit card customer churn prediction.</desc>
+  <rect width="680" height="300" rx="24" fill="#111827" stroke="#374151"/>
+  <text x="36" y="62" fill="#f8fafc" font-family="Inter,Segoe UI,Arial" font-size="34" font-weight="950">Credit Card Churn</text>
+  <text x="36" y="96" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial" font-size="17">Customer attrition modeling with practical retention insights.</text>
+  <g transform="translate(48 142)">
+    <circle cx="74" cy="74" r="66" fill="none" stroke="#1f2937" stroke-width="16"/>
+    <path d="M74 8a66 66 0 1 1-58 98" fill="none" stroke="#38bdf8" stroke-width="16" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" values="0 74 74;18 74 74;0 74 74" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <text x="74" y="84" text-anchor="middle" fill="#f8fafc" font-family="Inter,Segoe UI,Arial" font-size="28" font-weight="950">ML</text>
+  </g>
+  <g transform="translate(240 138)">
+    <rect x="0" y="0" width="310" height="22" rx="11" fill="#1f2937"/><rect x="0" y="0" width="242" height="22" rx="11" fill="#38bdf8"/>
+    <rect x="0" y="48" width="310" height="22" rx="11" fill="#1f2937"/><rect x="0" y="48" width="198" height="22" rx="11" fill="#2dd4bf"/>
+    <rect x="0" y="96" width="310" height="22" rx="11" fill="#1f2937"/><rect x="0" y="96" width="266" height="22" rx="11" fill="#a3e635"/>
+  </g>
+</svg>

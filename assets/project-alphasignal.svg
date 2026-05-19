@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="300" viewBox="0 0 680 300" role="img" aria-labelledby="title desc">
+  <title id="title">AlphaSignal project card</title>
+  <desc id="desc">Modern project card for AlphaSignal algorithmic trading intelligence platform.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="1" stop-color="#083344"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient></defs>
+  <rect width="680" height="300" rx="24" fill="url(#bg)" stroke="#24415f"/>
+  <text x="36" y="58" fill="#f8fafc" font-family="Inter,Segoe UI,Arial" font-size="34" font-weight="950">AlphaSignal</text>
+  <text x="36" y="90" fill="#93c5fd" font-family="Inter,Segoe UI,Arial" font-size="17">Algorithmic trading intelligence platform</text>
+  <g font-family="Inter,Segoe UI,Arial">
+    <rect x="36" y="120" width="126" height="58" rx="12" fill="#08111f" stroke="#263d59"/><text x="54" y="144" fill="#9fd3ff" font-size="13">Sharpe</text><text x="54" y="168" fill="#fff" font-size="25" font-weight="900">1.42</text>
+    <rect x="180" y="120" width="126" height="58" rx="12" fill="#08111f" stroke="#263d59"/><text x="198" y="144" fill="#9fd3ff" font-size="13">Max DD</text><text x="198" y="168" fill="#fff" font-size="25" font-weight="900">-8.6%</text>
+    <rect x="324" y="120" width="126" height="58" rx="12" fill="#08111f" stroke="#263d59"/><text x="342" y="144" fill="#9fd3ff" font-size="13">Tests</text><text x="342" y="168" fill="#fff" font-size="25" font-weight="900">37</text>
+  </g>
+  <path d="M40 242C102 218 130 230 176 196s82-8 126-38 74-18 108-44" fill="none" stroke="url(#line)" stroke-width="8" stroke-linecap="round"><animate attributeName="d" dur="4s" repeatCount="indefinite" values="M40 242C102 218 130 230 176 196s82-8 126-38 74-18 108-44;M40 232C96 204 134 216 178 184s86-3 126-30 70-8 106-52;M40 242C102 218 130 230 176 196s82-8 126-38 74-18 108-44"/></path>
+  <rect x="500" y="48" width="120" height="40" rx="20" fill="#042f2e" stroke="#2dd4bf"/><circle cx="526" cy="68" r="8" fill="#2dd4bf"/><text x="546" y="74" fill="#ecfeff" font-family="Inter,Segoe UI,Arial" font-size="15" font-weight="800">Live MVP</text>
+</svg>
