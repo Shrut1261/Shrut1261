@@ -54,8 +54,8 @@ I build analytics products that look polished, explain the business problem clea
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Shrut1261/credit-card-churn-prediction">
-        <img src="./assets/project-churn.svg" alt="Credit Card Churn project card" width="100%" />
+      <a href="https://github.com/Shrut1261/banking-customer-churn-prediction">
+        <img src="./assets/project-churn.svg" alt="Banking Customer Churn Prediction project card" width="100%" />
       </a>
     </td>
   </tr>

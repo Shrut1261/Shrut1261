@@ -2,7 +2,7 @@
   <title id="title">Credit card churn project card</title>
   <desc id="desc">Modern project card for credit card customer churn prediction.</desc>
   <rect width="680" height="300" rx="24" fill="#111827" stroke="#374151"/>
-  <text x="36" y="62" fill="#f8fafc" font-family="Inter,Segoe UI,Arial" font-size="34" font-weight="950">Credit Card Churn</text>
+  <text x="36" y="62" fill="#f8fafc" font-family="Inter,Segoe UI,Arial" font-size="32" font-weight="950">Banking Churn ML</text>
   <text x="36" y="96" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial" font-size="17">Customer attrition modeling with practical retention insights.</text>
   <g transform="translate(48 142)">
     <circle cx="74" cy="74" r="66" fill="none" stroke="#1f2937" stroke-width="16"/>
